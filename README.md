@@ -1,6 +1,4 @@
-You got it\! Here's the comprehensive README for the **IDS with AI** project, following the same detailed, language-independent structure as the Antivirus one.
 
-```markdown
 # Comprehensive Intrusion Detection System (IDS) with AI Project
 
 ---
@@ -118,4 +116,3 @@ Students will have the significant opportunity to research, evaluate, and select
 * **User Interface Development:** Begin building a simple graphical or web-based interface for monitoring and management.
 * **Performance Optimization:** Address potential bottlenecks in packet processing and AI inference.
 * **Testing & Validation:** Rigorous testing against synthetic attack traffic and real-world benign traffic.
-```
